@@ -11,7 +11,7 @@
   </div>
 <div>
 <ul class="nav nav-tabs colornavul">
-  <li><a href="#home" class="active" style="color:black">Home</a></li>
+  <li><a href="#home" class="active">Home</a></li>
   <li><a href="#news">About</a></li>
   <li><a href="#about">Men</a></li>
   <li><a href="#about">Wamen</a></li>
