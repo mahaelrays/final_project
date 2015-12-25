@@ -11,7 +11,7 @@
   </div>
 <div>
 <ul class="nav nav-tabs colornavul">
-  <li><a href="#home" class="active">Home</a></li>
+  <li><a href="#home" class="active" style="color:black">Home</a></li>
   <li><a href="#news">About</a></li>
   <li><a href="#about">Men</a></li>
   <li><a href="#about">Wamen</a></li>
@@ -24,17 +24,22 @@
   <i class="fa fa-circle-thin fa-stack-2x"></i>
   <i class="fa fa-search fa-stack-1x"></i>
   </span></li>
+
   <li><span class="fa-stack">
   <i class="fa fa-circle-thin fa-stack-2x"></i>
-  <i class="fa fa-twitter fa-stack-1x"></i>
+  <a href="http://twitter.com" target="_blanck"><i class="fa fa-twitter fa-stack-1x"></i></a>
   </span></li>
+
+  
   <li><span class="fa-stack">
   <i class="fa fa-circle-thin fa-stack-2x"></i>
-  <i class="fa fa-vimeo fa-stack-1x"></i>
+  <a href="http://vimeo.com" target="_blanck"><i class="fa fa-vimeo fa-stack-1x"></i></a>
   </span></li>
+
+  
   <li><span class="fa-stack">
   <i class="fa fa-circle-thin fa-stack-2x"></i>
-  <i class="fa fa-facebook fa-stack-1x "></i>
+  <a href="http://facebook.com" target="_blanck"><i class="fa fa-facebook fa-stack-1x "></i></a>
   </span></li>
 </ul> 
 </div>
