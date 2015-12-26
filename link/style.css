@@ -1,0 +1,491 @@
+/*sameh style*/
+#soka-gallery
+{
+	margin:0;
+	outline:0;
+	width:auto;
+	height:350px;
+	padding:0;
+	border-bottom:2px solid red;
+}
+
+.carusal_slide
+{	
+	outline:0;
+	margin-right:0;
+	width:auto;
+	height:345px;
+	border:0;
+	padding:0;
+}
+
+ .carusal_slide  .img_gallery
+{
+	padding:0;
+	margin:0;
+	outline:0;
+	height:345px;	
+	border:0;
+	width:auto;
+}
+ .carusal_slide .img_gallery img
+{
+	padding:0;
+    margin:0;
+	width:1346px;
+	height:340px;
+	border:0;
+}
+
+.carusalslide
+{	
+	outline:0;
+	margin-right:0;
+	width:auto;
+	height:450x;
+	border:0;
+	padding:0;
+	background-color:white;
+}
+
+ .carusalslide  .imggallery
+{
+	padding:0;
+	margin:0;
+	outline:0;
+	height:450px;	
+	border:0;
+	width:auto;
+	background-color:red;
+}
+ .carusalslide .imggallery img
+{
+	padding:0;
+    margin:0;
+	width:669px;
+	height:450px;
+	border:0;
+}
+
+.carusal-slide
+{	
+	height:170px;
+	position:absolute;
+	top:110px;
+	width:300px;
+	margin:15px;
+	
+
+}
+
+ .carusal-slide .img-gallery  .alter-image
+{
+text-align:justify;
+background-color:#ff8067;
+height:280px;
+padding: 20;
+
+}
+ .carusal-slide .img-gallery  .alter-image  h3
+{
+	margin:0;
+	color:white;
+	text-align:left;
+	font-family:arial bold;
+	font-size:22px;
+	border:0;
+}
+
+.right  
+{
+	position:absolute;
+	bottom:0px;
+	padding-right:0px;
+	margin:0px;
+	left:1278px;
+}
+
+ .left  
+{
+	
+    bottom:0px;
+	margin:0px;
+	padding-left:0px;
+	position:absolute;
+}
+.left   a  img
+{
+	margin:0px;
+	padding:0px;
+	
+}
+
+.lefting
+{
+position:absolute;
+top:265px;
+left:262px;
+}
+.righting 
+{	
+position:absolute;
+top:265px;
+left:282px;
+
+}
+
+.cart{
+	position:absolute;
+	top:370px;
+	left:0px;
+	
+}
+.subject{
+	position:absolute;
+	top:50px;
+	left:50px;
+	width:500px;
+    color:	#ff8067;
+    text-align: left;
+}
+.price-offer{
+	position:absolute;
+	top:300px;
+	left:15px;
+	width:200px;
+    color:black;
+}
+.price-offer h3{
+	width:250px;
+    color:black;
+	font-size:20px;
+}
+
+.subject h4{
+	
+    color:#ff8067;
+	font-size:25px;
+	font-family: thin;
+	/*left: 555px;*/
+}
+.cart img
+{
+	width:150px;
+	height:60px;
+}
+.lefting    img  ,.righting    img
+{
+	width:30px;
+	height:30px;
+	
+
+}
+
+ a  img
+{
+	width:70px;
+	height:70px;	
+}
+
+.offers 
+{
+   margin:0px;
+   padding:50px;
+}
+
+.offers .container
+{
+    padding-left:70px;	
+    margin-top:60px;	
+}
+.offer_item
+{   padding:0;
+	width:323px;
+    height:372px;
+	margin:9px;
+	margin-bottom:0px;;
+	border:1px solid 	#00FFFF;
+	margin-top:20px;
+	background-color:#ff8067;
+	
+}
+.offer_item:hover
+{   padding:0;
+	width:323px;
+    height:372px;
+	margin:9px;
+	margin-bottom:0px;;
+	border:2px solid 	purple;
+	margin-top:20px;
+	background-color:red;
+	
+}
+.offer_item  h2
+{
+	color:white;
+	text-align:center;
+	font-size:40px;
+	position:absolute;
+	top:40px;
+	padding:15px;	
+}
+.offer_item  img
+{
+	width: 323px;
+	height:370px;
+	margin-left:2px;
+	padding:0;	
+}
+
+.offer_item  h4
+{
+	color:white;
+	text-align:center;
+	font-size:50px;
+	position:absolute;
+	bottom:20px;
+	left:110px;	
+	font-family:verdana;
+	font-family:bold;
+}
+.meta-data
+{
+	display:none;
+	color:black;
+	background-color:white;
+	position:absolute;
+	bottom:90px;
+	width:150px;
+	height:25px;
+	left:90px;
+	text-align:center;
+	font-size:17px;
+	font-family:pold;	
+}
+.meta-data span
+{
+	font-size:8px;
+	top:-1px;
+	left:-5px;
+}
+.meta-data a
+{
+	
+color:black;
+text-decoration:none;	
+}
+.meta-data:hover
+{
+	color:purple;
+	background-color:green;
+	position:absolute;
+	bottom:90px;
+	width:150px;
+	height:25px;
+	left:90px;
+	text-align:center;
+	font-size:17px;
+	font-family:pold;	
+	border:2px solid green;
+}
+#offercart
+{
+	position:absolute;
+	width:180px;
+	height:100px;
+	right:300px;
+	bottom:70px;
+}
+#hint1
+{
+	position:absolute;
+	width:140px;
+	height:80px;
+	right:250px;
+	bottom:160px;
+}
+
+#hint2
+{
+	position:absolute;
+    width:140px;
+	height:80px;
+	left:310px;
+	bottom:50px;
+}
+
+.col1{
+	color:black;
+	font-size:40px;
+	width:300px;
+	height:300px;
+	text-align:left;
+	background-color:#EAEAEA;
+	font-family:arial;
+	margin:25px;
+	left:120px;
+	
+
+}
+
+.col1 h1, .col2 h1 ,.col3 h1{
+	font-size:21px;
+	font-family:verdana;
+	margin:20px;
+}
+
+.col1 h1, .col2 h1 ,.col3 h1{
+	font-size:21px;
+	font-family:verdana;
+	margin:20px;
+}
+
+.col1 h1 span ,.col2 h1 span ,.col3 h1 span ,.col2  .rr{
+	color:#ff8067;
+}
+.col1 h5  ,.col2 h5 ,.col3 h5
+{
+	font-size:20px; 
+}
+
+.col2{
+	color:black;
+	font-size:40px;
+	width:300px;
+	height:300px;
+	text-align:left;
+	background-color:#EAEAEA;
+	font-family:arial;
+	margin:25px;
+	left:150px;
+}
+.col2   .fa1
+{
+	color:#ff8067;
+    font-size:25px;
+	height:15px;
+	background-color:#EAEAEA;
+	position:absolute;
+	left: -15px;
+    top: 39px;
+	
+}
+.col2   .fa2
+{
+	color:#ff8067;
+	font-size:25px;
+	height:15px;
+	background-color:#EAEAEA;
+	position:absolute;
+	left: -15px;
+    bottom: 138px;
+}
+
+.col3{
+	color:black;
+	font-size:40px;
+	width:350px;
+	height:300px;
+	text-align:center;
+	background-color:#EAEAEA;
+	font-family:arial;
+	left:210px;
+	padding: 25px; 
+}
+
+.col3  .row img
+{
+	width:65px;
+	height:70px;
+	padding:-25px;
+	margin: -8px;
+}
+
+.col2 h3
+{
+	padding-left:5px;
+}
+
+/*aya style*/
+.soka {
+    color:white;
+    text-align:right;
+    padding:25px;
+    font-family:Times New Roman (Headings CS);
+    font-size: 50px;
+    border-right: 1px solid white;
+    height:110px;
+    background-color:#ff8067;
+}
+
+.colornavul{
+	background-color:#ff8067;
+	color:white;
+	height: 120px;
+	padding-top: 37px;
+	margin:-1px;
+	font-size: 20px; 
+}
+
+li a {
+    display: inline-block;
+    color: white;
+    text-align: center;
+    font-family:Vodafone ExB; 
+}
+
+#p1{
+	text-align: right;
+	color: black;
+    margin: 13px 70px ;
+    left: 50px;
+}
+
+li span {
+	margin: 5px;
+}
+
+li span i{
+	color:#ff8067;
+	background-color:white;
+    border-radius:50px 50px;
+}
+
+#footer {
+    background-color:#ff8067;
+    color:white;
+    clear:both;
+    padding:40px; 
+    margin:-1px; 
+}
+
+.row {
+    margin: 25px;
+}
+
+.subtitle{
+    font-size: 18px;
+    font-family:Arial Black; 
+}
+.tcr{
+    color: red;
+    font-family:Arial Black; 
+
+}
+
+.fdiv{
+   text-align: left; 
+   left: 105px;
+}
+
+.fdiv1{
+   text-align: right; 
+   right: 92px;
+}
+
+.footer{	
+background-color:#EAEAEA;
+border-top:2px solid red;
+padding:0;
+margin: -1px;
+}
