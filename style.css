@@ -166,7 +166,6 @@ left:282px;
     color:#ff8067;
 	font-size:25px;
 	font-family: thin;
-	/*left: 555px;*/
 }
 .cart img
 {
@@ -324,8 +323,6 @@ text-decoration:none;
 	font-family:arial;
 	margin:25px;
 	left:120px;
-	
-
 }
 
 .col1 h1, .col2 h1 ,.col3 h1{
@@ -337,11 +334,11 @@ text-decoration:none;
 .col1 h1 span ,.col2 h1 span ,.col3 h1 span ,.col2  .rr{
 	color:#ff8067;
 }
-.col1 h3  ,.col2 h3 ,.col3 h3
+.col1 h5  ,.col2 h5 ,.col3 h5
 {
-	font-size:20px;	
-	
+	font-size:20px; 
 }
+
 .col2{
 	color:black;
 	font-size:40px;
@@ -361,7 +358,7 @@ text-decoration:none;
 	background-color:#EAEAEA;
 	position:absolute;
 	left:-12px;
-	top:80px;
+	top:70px;
 	
 }
 .col2   .fa2
@@ -372,7 +369,7 @@ text-decoration:none;
 	background-color:#EAEAEA;
 	position:absolute;
 	left:-12px;
-	bottom:77px;
+	bottom:108px;
 	
 	
 }
@@ -394,20 +391,6 @@ text-decoration:none;
 	height:70px;
 	padding:-25px;
 	margin: -8px;
-}
-.copyright{
-	
-	background-color:#ff8067;
-	padding:0;
-	margin:0;	
-}
-.copyright h3
-{
-	color:white;
-	font-size:20px;
-padding-left:150px;
-	font-family:pold;
-	
 }
 
 .col2 h3
@@ -450,7 +433,7 @@ li a {
     left: 50px;
 }
 
-li span {
+li span{
 	margin: 5px;
 }
 
@@ -472,10 +455,11 @@ li span i{
     margin: 25px;
 }
 
-.subtitle{
+.subtitle {
     font-size: 18px;
-    font-family:Arial Black; 
+    font-family:Arial Black;
 }
+
 .tcr{
     color: red;
     font-family:Arial Black; 
